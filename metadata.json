@@ -1,0 +1,7 @@
+{
+  "name": "Kurdish Creator Hub",
+  "description": "A comprehensive creative platform for Kurdish language enthusiasts, featuring AI-powered translation, text-to-speech, and image generation with a Kurdish cultural focus.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
